@@ -1,0 +1,59 @@
+==================================================
+RESUMEN DEL DATAFRAME TRANSFORMADO
+==================================================
+
+Dimensiones: 118 filas, 7 columnas
+
+--- INFORMACIÓN GENERAL Y TIPOS DE DATOS ---
+<class 'pandas.core.frame.DataFrame'>
+Index: 118 entries, 0 to 149
+Data columns (total 7 columns):
+ #   Column           Non-Null Count  Dtype  
+---  ------           --------------  -----  
+ 0   Id               118 non-null    int64  
+ 1   largo_sepalo_cm  118 non-null    float64
+ 2   ancho_sepalo_cm  118 non-null    float64
+ 3   largo_petalo_cm  118 non-null    float64
+ 4   ancho_petalo_cm  118 non-null    float64
+ 5   especie          118 non-null    object 
+ 6   ratio_petalo     118 non-null    float64
+dtypes: float64(5), int64(1), object(1)
+memory usage: 7.4+ KB
+
+
+--- VALORES NULOS POR COLUMNA ---
+Id                 0
+largo_sepalo_cm    0
+ancho_sepalo_cm    0
+largo_petalo_cm    0
+ancho_petalo_cm    0
+especie            0
+ratio_petalo       0
+dtype: int64
+
+--- ESTADÍSTICAS DESCRIPTIVAS ---
+                Id  largo_sepalo_cm  ancho_sepalo_cm  largo_petalo_cm  \
+count   118.000000       118.000000       118.000000       118.000000   
+unique         NaN              NaN              NaN              NaN   
+top            NaN              NaN              NaN              NaN   
+freq           NaN              NaN              NaN              NaN   
+mean     87.237288         6.129661         3.048305         4.315254   
+std      39.868519         0.687906         0.445439         1.528623   
+min       1.000000         5.100000         2.200000         1.200000   
+25%      59.250000         5.600000         2.800000         3.925000   
+50%      89.500000         6.100000         3.000000         4.700000   
+75%     120.750000         6.575000         3.300000         5.375000   
+max     150.000000         7.900000         4.400000         6.900000   
+
+        ancho_petalo_cm    especie  ratio_petalo  
+count        118.000000        118    118.000000  
+unique              NaN          3           NaN  
+top                 NaN  virginica           NaN  
+freq                NaN         49           NaN  
+mean           1.432203        NaN      3.607299  
+std            0.671506        NaN      1.714989  
+min            0.100000        NaN      2.125000  
+25%            1.200000        NaN      2.722222  
+50%            1.500000        NaN      3.148352  
+75%            1.900000        NaN      3.500000  
+max            2.500000        NaN     15.000000  
