@@ -1,0 +1,40 @@
+{
+  "consulta": "2026-11-10",
+  "Medell?n": {
+    "idestacion": "26205080",
+    "nombre": "LA ALDEA [26205080]",
+    "altitud": 1737.0,
+    "latitud": 6.34105556,
+    "longitud": -75.70094444,
+    "idmunicipio": 5001.0,
+    "prop_nom": "INSTITUTO DE HIDROLOGÍA METEOROLOGÍA Y ESTUDIOS AMBIENTALES"
+  },
+  "Puebla": {
+    "type": "Feature",
+    "id": "21065",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.16666667,
+        19.05
+      ]
+    },
+    "properties": {
+      "clave": "21065",
+      "nombre": "PUEBLA (OBS)",
+      "estado": "PUEBLA",
+      "municipio": "PUEBLA",
+      "organismo": "BALSAS",
+      "cuenca": "RÍO ALTO ATOYAC",
+      "tipo": "OBSERVATORIO",
+      "altitud": "2179",
+      "inicio": "1942-02-01",
+      "mas_reciente": "2026-11-06",
+      "situacion": "OPERANDO",
+      "diarios": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Diarios/pue/dia21065.txt",
+      "mensuales": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Mensuales/pue/mes21065.txt",
+      "extremos": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Med-Extr/pue/medex21065.txt",
+      "normales_1991_2020": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Normales9120/pue/nor9120_21065.txt"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+    "url":  "https://modulopersonalizado.ideam.gov.co/DhimeServicePortal/api/Listas/ConsultarListaSeriesTiempoEstacionesPorFiltroString?mostrarGrado=true\u0026filter=((IdParametro~eq~\u0027TEMPERATURA\u0027~and~Etiqueta~eq~\u0027TMN_CON\u0027~and~IdEstacion~eq~\u002726205080\u0027)~or~(IdParametro~eq~\u0027PRECIPITACION\u0027~and~Etiqueta~eq~\u0027PTPM_CON\u0027~and~IdEstacion~eq~\u002726205080\u0027))\u0026fechaInicio=2026-01-01T05%3A00%3A00.000Z\u0026tipoReporte=csv\u0026mostrarNivelAprobacion=true\u0026fechaFin=2026-10-31T05%3A00%3A00.000Z\u0026group=\u0026mostrarCalificador=true\u0026sort=",
+    "archivo":  "ideam_aldea_2026_TMN_CON.zip",
+    "items":  [
+                  {
+                      "EsEjeY1":  false,
+                      "TipoSerie":  "Estandard",
+                      "EsTipoBarra":  false,
+                      "EsTipoLinea":  false,
+                      "Calculo":  "",
+                      "IdParametro":  "TEMPERATURA",
+                      "EsEjeY2":  false,
+                      "Etiqueta":  "TMN_CON"
+                  },
+                  {
+                      "EsEjeY1":  false,
+                      "TipoSerie":  "Estandard",
+                      "EsTipoBarra":  false,
+                      "EsTipoLinea":  false,
+                      "Calculo":  "",
+                      "IdParametro":  "PRECIPITACION",
+                      "EsEjeY2":  false,
+                      "Etiqueta":  "PTPM_CON"
+                  }
+              ],
+    "fechaConsulta":  "2026-11-10"
+}

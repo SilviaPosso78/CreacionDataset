@@ -1,0 +1,305 @@
+fecha,ciudad,pais,estacion,tmin_c,precipitacion_mm,estado_tmin,estado_precipitacion
+2026-01-01,Medellín,Colombia,26205080,17.4,1.5,En revisión,En revisión
+2026-01-02,Medellín,Colombia,26205080,17.2,7.5,En revisión,En revisión
+2026-01-03,Medellín,Colombia,26205080,16.6,11.0,En revisión,En revisión
+2026-01-04,Medellín,Colombia,26205080,15.6,12.4,En revisión,En revisión
+2026-01-05,Medellín,Colombia,26205080,15.4,17.2,En revisión,En revisión
+2026-01-06,Medellín,Colombia,26205080,14.8,6.1,En revisión,En revisión
+2026-01-07,Medellín,Colombia,26205080,15.2,1.4,En revisión,En revisión
+2026-01-08,Medellín,Colombia,26205080,16.0,2.2,En revisión,En revisión
+2026-01-09,Medellín,Colombia,26205080,16.4,2.4,En revisión,En revisión
+2026-01-10,Medellín,Colombia,26205080,16.2,0.6,En revisión,En revisión
+2026-01-11,Medellín,Colombia,26205080,16.2,3.3,En revisión,En revisión
+2026-01-12,Medellín,Colombia,26205080,15.6,19.2,En revisión,En revisión
+2026-01-13,Medellín,Colombia,26205080,15.0,1.5,En revisión,En revisión
+2026-01-14,Medellín,Colombia,26205080,15.4,0.3,En revisión,En revisión
+2026-01-15,Medellín,Colombia,26205080,16.4,35.4,En revisión,En revisión
+2026-01-16,Medellín,Colombia,26205080,14.6,0.0,En revisión,En revisión
+2026-01-17,Medellín,Colombia,26205080,15.0,0.0,En revisión,En revisión
+2026-01-18,Medellín,Colombia,26205080,16.2,0.0,En revisión,En revisión
+2026-01-19,Medellín,Colombia,26205080,17.2,3.6,En revisión,En revisión
+2026-01-20,Medellín,Colombia,26205080,16.0,6.7,En revisión,En revisión
+2026-01-21,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-01-22,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-01-23,Medellín,Colombia,26205080,16.0,0.7,En revisión,En revisión
+2026-01-24,Medellín,Colombia,26205080,14.8,0.0,En revisión,En revisión
+2026-01-25,Medellín,Colombia,26205080,15.2,0.6,En revisión,En revisión
+2026-01-26,Medellín,Colombia,26205080,16.0,9.3,En revisión,En revisión
+2026-01-27,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-01-28,Medellín,Colombia,26205080,15.8,1.0,En revisión,En revisión
+2026-01-29,Medellín,Colombia,26205080,15.8,5.8,En revisión,En revisión
+2026-01-30,Medellín,Colombia,26205080,16.6,1.3,En revisión,En revisión
+2026-01-31,Medellín,Colombia,26205080,16.4,20.0,En revisión,En revisión
+2026-02-01,Medellín,Colombia,26205080,16.6,26.4,En revisión,En revisión
+2026-02-02,Medellín,Colombia,26205080,14.4,10.0,En revisión,En revisión
+2026-02-03,Medellín,Colombia,26205080,15.2,0.0,En revisión,En revisión
+2026-02-04,Medellín,Colombia,26205080,15.4,0.0,En revisión,En revisión
+2026-02-05,Medellín,Colombia,26205080,15.4,48.0,En revisión,En revisión
+2026-02-06,Medellín,Colombia,26205080,15.0,1.0,En revisión,En revisión
+2026-02-07,Medellín,Colombia,26205080,15.2,3.2,En revisión,En revisión
+2026-02-08,Medellín,Colombia,26205080,15.2,0.2,En revisión,En revisión
+2026-02-09,Medellín,Colombia,26205080,15.6,0.0,En revisión,En revisión
+2026-02-10,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-02-11,Medellín,Colombia,26205080,15.4,0.6,En revisión,En revisión
+2026-02-12,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-02-13,Medellín,Colombia,26205080,16.2,1.4,En revisión,En revisión
+2026-02-14,Medellín,Colombia,26205080,16.4,5.8,En revisión,En revisión
+2026-02-15,Medellín,Colombia,26205080,16.0,17.0,En revisión,En revisión
+2026-02-16,Medellín,Colombia,26205080,15.8,2.0,En revisión,En revisión
+2026-02-17,Medellín,Colombia,26205080,16.0,8.5,En revisión,En revisión
+2026-02-18,Medellín,Colombia,26205080,16.0,0.7,En revisión,En revisión
+2026-02-19,Medellín,Colombia,26205080,16.4,15.0,En revisión,En revisión
+2026-02-20,Medellín,Colombia,26205080,15.8,4.0,En revisión,En revisión
+2026-02-21,Medellín,Colombia,26205080,16.4,5.5,En revisión,En revisión
+2026-02-22,Medellín,Colombia,26205080,16.4,4.8,En revisión,En revisión
+2026-02-23,Medellín,Colombia,26205080,16.6,4.3,En revisión,En revisión
+2026-02-24,Medellín,Colombia,26205080,15.8,34.6,En revisión,En revisión
+2026-02-25,Medellín,Colombia,26205080,15.4,0.0,En revisión,En revisión
+2026-02-26,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-02-27,Medellín,Colombia,26205080,16.2,0.0,En revisión,En revisión
+2026-02-28,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-03-01,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-03-02,Medellín,Colombia,26205080,15.6,0.0,En revisión,En revisión
+2026-03-03,Medellín,Colombia,26205080,16.4,26.2,En revisión,En revisión
+2026-03-04,Medellín,Colombia,26205080,16.6,16.0,En revisión,En revisión
+2026-03-05,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-03-06,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-03-07,Medellín,Colombia,26205080,16.4,0.4,En revisión,En revisión
+2026-03-08,Medellín,Colombia,26205080,17.2,1.7,En revisión,En revisión
+2026-03-09,Medellín,Colombia,26205080,14.4,0.0,En revisión,En revisión
+2026-03-10,Medellín,Colombia,26205080,14.6,0.8,En revisión,En revisión
+2026-03-11,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-03-12,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-03-13,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-03-14,Medellín,Colombia,26205080,15.6,0.0,En revisión,En revisión
+2026-03-15,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-03-16,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-03-17,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-03-18,Medellín,Colombia,26205080,17.4,3.5,En revisión,En revisión
+2026-03-19,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-03-20,Medellín,Colombia,26205080,15.6,0.0,En revisión,En revisión
+2026-03-21,Medellín,Colombia,26205080,16.0,6.2,En revisión,En revisión
+2026-03-22,Medellín,Colombia,26205080,15.0,0.0,En revisión,En revisión
+2026-03-23,Medellín,Colombia,26205080,16.6,0.0,En revisión,En revisión
+2026-03-24,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-03-25,Medellín,Colombia,26205080,15.0,15.3,En revisión,En revisión
+2026-03-26,Medellín,Colombia,26205080,15.6,6.0,En revisión,En revisión
+2026-03-27,Medellín,Colombia,26205080,16.0,12.0,En revisión,En revisión
+2026-03-28,Medellín,Colombia,26205080,15.2,0.0,En revisión,En revisión
+2026-03-29,Medellín,Colombia,26205080,16.0,10.0,En revisión,En revisión
+2026-03-30,Medellín,Colombia,26205080,17.0,11.6,En revisión,En revisión
+2026-03-31,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-04-01,Medellín,Colombia,26205080,15.8,17.1,En revisión,En revisión
+2026-04-02,Medellín,Colombia,26205080,15.4,0.0,En revisión,En revisión
+2026-04-03,Medellín,Colombia,26205080,16.2,0.0,En revisión,En revisión
+2026-04-04,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-04-05,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-04-06,Medellín,Colombia,26205080,17.0,5.2,En revisión,En revisión
+2026-04-07,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-04-08,Medellín,Colombia,26205080,17.4,0.8,En revisión,En revisión
+2026-04-09,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-04-10,Medellín,Colombia,26205080,17.4,11.7,En revisión,En revisión
+2026-04-11,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-04-12,Medellín,Colombia,26205080,16.4,4.9,En revisión,En revisión
+2026-04-13,Medellín,Colombia,26205080,17.2,0.5,En revisión,En revisión
+2026-04-14,Medellín,Colombia,26205080,16.6,13.0,En revisión,En revisión
+2026-04-15,Medellín,Colombia,26205080,16.2,32.3,En revisión,En revisión
+2026-04-16,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-04-17,Medellín,Colombia,26205080,16.2,4.8,En revisión,En revisión
+2026-04-18,Medellín,Colombia,26205080,15.0,0.0,En revisión,En revisión
+2026-04-19,Medellín,Colombia,26205080,17.0,0.4,En revisión,En revisión
+2026-04-20,Medellín,Colombia,26205080,15.4,1.0,En revisión,En revisión
+2026-04-21,Medellín,Colombia,26205080,15.6,7.8,En revisión,En revisión
+2026-04-22,Medellín,Colombia,26205080,15.0,1.8,En revisión,En revisión
+2026-04-23,Medellín,Colombia,26205080,15.0,0.0,En revisión,En revisión
+2026-04-24,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-04-25,Medellín,Colombia,26205080,15.4,8.0,En revisión,En revisión
+2026-04-26,Medellín,Colombia,26205080,15.6,13.2,En revisión,En revisión
+2026-04-27,Medellín,Colombia,26205080,15.4,0.0,En revisión,En revisión
+2026-04-28,Medellín,Colombia,26205080,15.8,3.3,En revisión,En revisión
+2026-04-29,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-04-30,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-05-01,Medellín,Colombia,26205080,17.0,6.0,En revisión,En revisión
+2026-05-02,Medellín,Colombia,26205080,16.0,2.2,En revisión,En revisión
+2026-05-03,Medellín,Colombia,26205080,16.0,13.1,En revisión,En revisión
+2026-05-04,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-05-05,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-05-06,Medellín,Colombia,26205080,17.6,0.0,En revisión,En revisión
+2026-05-07,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-05-08,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-05-09,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-05-10,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-05-11,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-05-12,Medellín,Colombia,26205080,17.4,0.2,En revisión,En revisión
+2026-05-13,Medellín,Colombia,26205080,16.6,0.0,En revisión,En revisión
+2026-05-14,Medellín,Colombia,26205080,18.0,1.5,En revisión,En revisión
+2026-05-15,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-05-16,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-05-17,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-05-18,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-05-19,Medellín,Colombia,26205080,17.8,0.0,En revisión,En revisión
+2026-05-20,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-05-21,Medellín,Colombia,26205080,17.2,11.0,En revisión,En revisión
+2026-05-22,Medellín,Colombia,26205080,16.2,3.1,En revisión,En revisión
+2026-05-23,Medellín,Colombia,26205080,17.0,2.9,En revisión,En revisión
+2026-05-24,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-05-25,Medellín,Colombia,26205080,17.6,0.0,En revisión,En revisión
+2026-05-26,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-05-27,Medellín,Colombia,26205080,17.8,0.0,En revisión,En revisión
+2026-05-28,Medellín,Colombia,26205080,17.6,0.0,En revisión,En revisión
+2026-05-29,Medellín,Colombia,26205080,18.0,40.8,En revisión,En revisión
+2026-05-30,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-05-31,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-06-01,Medellín,Colombia,26205080,17.8,0.0,En revisión,En revisión
+2026-06-02,Medellín,Colombia,26205080,17.8,0.0,En revisión,En revisión
+2026-06-03,Medellín,Colombia,26205080,17.6,4.8,En revisión,En revisión
+2026-06-04,Medellín,Colombia,26205080,16.2,14.8,En revisión,En revisión
+2026-06-05,Medellín,Colombia,26205080,17.0,13.6,En revisión,En revisión
+2026-06-06,Medellín,Colombia,26205080,16.2,24.0,En revisión,En revisión
+2026-06-07,Medellín,Colombia,26205080,16.0,23.0,En revisión,En revisión
+2026-06-08,Medellín,Colombia,26205080,15.2,13.8,En revisión,En revisión
+2026-06-09,Medellín,Colombia,26205080,14.6,0.5,En revisión,En revisión
+2026-06-10,Medellín,Colombia,26205080,15.2,6.9,En revisión,En revisión
+2026-06-11,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-06-12,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-06-13,Medellín,Colombia,26205080,18.0,1.1,En revisión,En revisión
+2026-06-14,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-06-15,Medellín,Colombia,26205080,16.8,1.3,En revisión,En revisión
+2026-06-16,Medellín,Colombia,26205080,15.2,0.0,En revisión,En revisión
+2026-06-17,Medellín,Colombia,26205080,16.0,8.2,En revisión,En revisión
+2026-06-18,Medellín,Colombia,26205080,15.2,1.0,En revisión,En revisión
+2026-06-19,Medellín,Colombia,26205080,16.0,0.4,En revisión,En revisión
+2026-06-20,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-06-21,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-06-22,Medellín,Colombia,26205080,17.6,9.4,En revisión,En revisión
+2026-06-23,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-06-24,Medellín,Colombia,26205080,14.8,0.0,En revisión,En revisión
+2026-06-25,Medellín,Colombia,26205080,15.6,0.0,En revisión,En revisión
+2026-06-26,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-06-27,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-06-28,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-06-29,Medellín,Colombia,26205080,17.8,0.0,En revisión,En revisión
+2026-06-30,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-07-01,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-07-02,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-07-03,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-07-04,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-07-05,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-07-06,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-07-07,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-07-08,Medellín,Colombia,26205080,18.4,0.0,En revisión,En revisión
+2026-07-09,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-07-10,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-07-11,Medellín,Colombia,26205080,16.4,4.0,En revisión,En revisión
+2026-07-12,Medellín,Colombia,26205080,16.2,1.2,En revisión,En revisión
+2026-07-13,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-07-14,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-07-15,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-07-16,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-07-17,Medellín,Colombia,26205080,17.8,0.0,En revisión,En revisión
+2026-07-18,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-07-19,Medellín,Colombia,26205080,18.2,64.6,En revisión,En revisión
+2026-07-20,Medellín,Colombia,26205080,16.2,2.2,En revisión,En revisión
+2026-07-21,Medellín,Colombia,26205080,16.2,0.0,En revisión,En revisión
+2026-07-22,Medellín,Colombia,26205080,16.4,7.0,En revisión,En revisión
+2026-07-23,Medellín,Colombia,26205080,15.8,9.8,En revisión,En revisión
+2026-07-24,Medellín,Colombia,26205080,16.2,0.0,En revisión,En revisión
+2026-07-25,Medellín,Colombia,26205080,16.2,4.6,En revisión,En revisión
+2026-07-26,Medellín,Colombia,26205080,15.6,0.0,En revisión,En revisión
+2026-07-27,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-07-28,Medellín,Colombia,26205080,15.8,0.0,En revisión,En revisión
+2026-07-29,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-07-30,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-07-31,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-08-01,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-08-02,Medellín,Colombia,26205080,17.8,0.0,En revisión,En revisión
+2026-08-03,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-08-04,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-08-05,Medellín,Colombia,26205080,17.6,0.0,En revisión,En revisión
+2026-08-06,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-08-07,Medellín,Colombia,26205080,16.2,0.0,En revisión,En revisión
+2026-08-08,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-08-09,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-08-10,Medellín,Colombia,26205080,17.4,0.0,En revisión,En revisión
+2026-08-11,Medellín,Colombia,26205080,18.4,0.0,En revisión,En revisión
+2026-08-12,Medellín,Colombia,26205080,19.0,0.0,En revisión,En revisión
+2026-08-13,Medellín,Colombia,26205080,18.4,0.0,En revisión,En revisión
+2026-08-14,Medellín,Colombia,26205080,18.6,0.0,En revisión,En revisión
+2026-08-15,Medellín,Colombia,26205080,18.8,2.2,En revisión,En revisión
+2026-08-16,Medellín,Colombia,26205080,17.8,7.6,En revisión,En revisión
+2026-08-17,Medellín,Colombia,26205080,17.0,50.0,En revisión,En revisión
+2026-08-18,Medellín,Colombia,26205080,16.4,0.0,En revisión,En revisión
+2026-08-19,Medellín,Colombia,26205080,16.6,0.0,En revisión,En revisión
+2026-08-20,Medellín,Colombia,26205080,17.2,0.0,En revisión,En revisión
+2026-08-21,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-08-22,Medellín,Colombia,26205080,18.0,0.0,En revisión,En revisión
+2026-08-23,Medellín,Colombia,26205080,16.4,1.2,En revisión,En revisión
+2026-08-24,Medellín,Colombia,26205080,16.8,0.0,En revisión,En revisión
+2026-08-25,Medellín,Colombia,26205080,17.0,0.0,En revisión,En revisión
+2026-08-26,Medellín,Colombia,26205080,18.0,0.7,En revisión,En revisión
+2026-08-27,Medellín,Colombia,26205080,17.8,0.3,En revisión,En revisión
+2026-08-28,Medellín,Colombia,26205080,18.0,12.6,En revisión,En revisión
+2026-08-29,Medellín,Colombia,26205080,16.0,6.1,En revisión,En revisión
+2026-08-30,Medellín,Colombia,26205080,16.0,0.0,En revisión,En revisión
+2026-08-31,Medellín,Colombia,26205080,17.4,4.7,Preliminar,Preliminar
+2026-09-01,Medellín,Colombia,26205080,16.0,10.0,Preliminar,Preliminar
+2026-09-02,Medellín,Colombia,26205080,16.4,0.0,Preliminar,Preliminar
+2026-09-03,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-09-04,Medellín,Colombia,26205080,16.6,0.0,Preliminar,Preliminar
+2026-09-05,Medellín,Colombia,26205080,17.4,0.0,Preliminar,Preliminar
+2026-09-06,Medellín,Colombia,26205080,17.8,0.0,Preliminar,Preliminar
+2026-09-07,Medellín,Colombia,26205080,17.4,0.0,Preliminar,Preliminar
+2026-09-08,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-09-09,Medellín,Colombia,26205080,18.0,2.7,Preliminar,Preliminar
+2026-09-10,Medellín,Colombia,26205080,17.6,13.8,Preliminar,Preliminar
+2026-09-11,Medellín,Colombia,26205080,16.0,0.0,Preliminar,Preliminar
+2026-09-12,Medellín,Colombia,26205080,16.0,0.4,Preliminar,Preliminar
+2026-09-13,Medellín,Colombia,26205080,17.4,0.0,Preliminar,Preliminar
+2026-09-14,Medellín,Colombia,26205080,16.8,0.0,Preliminar,Preliminar
+2026-09-15,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-09-16,Medellín,Colombia,26205080,17.8,0.0,Preliminar,Preliminar
+2026-09-17,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-09-18,Medellín,Colombia,26205080,16.8,0.0,Preliminar,Preliminar
+2026-09-19,Medellín,Colombia,26205080,17.4,0.0,Preliminar,Preliminar
+2026-09-20,Medellín,Colombia,26205080,16.4,0.0,Preliminar,Preliminar
+2026-09-21,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-09-22,Medellín,Colombia,26205080,16.0,0.0,Preliminar,Preliminar
+2026-09-23,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-09-24,Medellín,Colombia,26205080,16.4,23.4,Preliminar,Preliminar
+2026-09-25,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-09-26,Medellín,Colombia,26205080,16.8,1.3,Preliminar,Preliminar
+2026-09-27,Medellín,Colombia,26205080,15.0,23.2,Preliminar,Preliminar
+2026-09-28,Medellín,Colombia,26205080,15.8,1.3,Preliminar,Preliminar
+2026-09-29,Medellín,Colombia,26205080,16.0,0.0,Preliminar,Preliminar
+2026-09-30,Medellín,Colombia,26205080,17.4,59.7,Preliminar,Preliminar
+2026-10-01,Medellín,Colombia,26205080,16.8,8.4,Preliminar,Preliminar
+2026-10-02,Medellín,Colombia,26205080,17.8,0.0,Preliminar,Preliminar
+2026-10-03,Medellín,Colombia,26205080,17.4,0.0,Preliminar,Preliminar
+2026-10-04,Medellín,Colombia,26205080,16.2,1.5,Preliminar,Preliminar
+2026-10-05,Medellín,Colombia,26205080,16.6,1.7,Preliminar,Preliminar
+2026-10-06,Medellín,Colombia,26205080,16.2,0.0,Preliminar,Preliminar
+2026-10-07,Medellín,Colombia,26205080,17.0,28.1,Preliminar,Preliminar
+2026-10-08,Medellín,Colombia,26205080,14.0,4.0,Preliminar,Preliminar
+2026-10-09,Medellín,Colombia,26205080,17.0,43.5,Preliminar,Preliminar
+2026-10-10,Medellín,Colombia,26205080,15.4,0.0,Preliminar,Preliminar
+2026-10-11,Medellín,Colombia,26205080,16.0,13.4,Preliminar,Preliminar
+2026-10-12,Medellín,Colombia,26205080,16.4,15.8,Preliminar,Preliminar
+2026-10-13,Medellín,Colombia,26205080,14.8,2.5,Preliminar,Preliminar
+2026-10-14,Medellín,Colombia,26205080,14.6,0.0,Preliminar,Preliminar
+2026-10-15,Medellín,Colombia,26205080,16.6,0.7,Preliminar,Preliminar
+2026-10-16,Medellín,Colombia,26205080,18.0,0.0,Preliminar,Preliminar
+2026-10-17,Medellín,Colombia,26205080,17.2,0.5,Preliminar,Preliminar
+2026-10-18,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-10-19,Medellín,Colombia,26205080,16.4,0.0,Preliminar,Preliminar
+2026-10-20,Medellín,Colombia,26205080,16.6,2.6,Preliminar,Preliminar
+2026-10-21,Medellín,Colombia,26205080,17.0,2.0,Preliminar,Preliminar
+2026-10-22,Medellín,Colombia,26205080,16.0,0.0,Preliminar,Preliminar
+2026-10-23,Medellín,Colombia,26205080,16.6,24.6,Preliminar,Preliminar
+2026-10-24,Medellín,Colombia,26205080,16.8,19.6,Preliminar,Preliminar
+2026-10-25,Medellín,Colombia,26205080,16.8,4.8,Preliminar,Preliminar
+2026-10-26,Medellín,Colombia,26205080,16.6,10.0,Preliminar,Preliminar
+2026-10-27,Medellín,Colombia,26205080,16.2,0.0,Preliminar,Preliminar
+2026-10-28,Medellín,Colombia,26205080,17.0,0.0,Preliminar,Preliminar
+2026-10-29,Medellín,Colombia,26205080,16.6,0.0,Preliminar,Preliminar
+2026-10-30,Medellín,Colombia,26205080,16.4,8.6,Preliminar,Preliminar
+2026-10-31,Medellín,Colombia,26205080,16.6,0.4,Preliminar,Preliminar

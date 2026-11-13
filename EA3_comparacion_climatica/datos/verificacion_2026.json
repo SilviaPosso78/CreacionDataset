@@ -1,0 +1,56 @@
+{
+  "consulta": "2026-11-10",
+  "inicio": "2026-01-01",
+  "fin": "2026-10-31",
+  "frecuencia": "diaria",
+  "unidades": {
+    "tmin_c": "°C",
+    "precipitacion_mm": "mm"
+  },
+  "conversiones": "Sin conversión numérica; degC se rotula °C.",
+  "fuentes": {
+    "Medellín": "https://modulopersonalizado.ideam.gov.co/DhimeServicePortal/api/Listas/ConsultarListaSeriesTiempoEstacionesPorFiltroString?mostrarGrado=true&filter=((IdParametro~eq~'TEMPERATURA'~and~Etiqueta~eq~'TMN_CON'~and~IdEstacion~eq~'26205080')~or~(IdParametro~eq~'PRECIPITACION'~and~Etiqueta~eq~'PTPM_CON'~and~IdEstacion~eq~'26205080'))&fechaInicio=2026-01-01T05%3A00%3A00.000Z&tipoReporte=csv&mostrarNivelAprobacion=true&fechaFin=2026-10-31T05%3A00%3A00.000Z&group=&mostrarCalificador=true&sort=",
+    "Puebla": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Diarios/pue/dia21065.txt"
+  },
+  "auditoria": [
+    {
+      "ciudad": "Medellín",
+      "variable": "tmin_c",
+      "dias_calendario": 304,
+      "observaciones": 304,
+      "ausentes": 0,
+      "fechas_ausentes": []
+    },
+    {
+      "ciudad": "Medellín",
+      "variable": "precipitacion_mm",
+      "dias_calendario": 304,
+      "observaciones": 304,
+      "ausentes": 0,
+      "fechas_ausentes": []
+    },
+    {
+      "ciudad": "Puebla",
+      "variable": "tmin_c",
+      "dias_calendario": 304,
+      "observaciones": 304,
+      "ausentes": 0,
+      "fechas_ausentes": []
+    },
+    {
+      "ciudad": "Puebla",
+      "variable": "precipitacion_mm",
+      "dias_calendario": 304,
+      "observaciones": 304,
+      "ausentes": 0,
+      "fechas_ausentes": []
+    }
+  ],
+  "series_temperatura_completas": true,
+  "sha256": {
+    "ideam_aldea_2026_TMN_CON.zip": "4294838fdcb81478865d85a00b0b94be89e6acc067c2023656c78b12265f54d1",
+    "mexico_21065_diarios.txt": "9813b52b1e0c843fc88bd8b83e99ca1464354a1cb47d4a0b80909f0afb851467",
+    "medellin_2026_diario.csv": "6d62ced1e565609cdf5870c6054980eb313593ea62d25ac2619ffa31694ac49e",
+    "puebla_2026_diario.csv": "522bdc3e2ce9af8734ed617128ca6aefce23ee76ecb69c6a9abee19e30d09422"
+  }
+}

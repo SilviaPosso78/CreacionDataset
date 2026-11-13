@@ -1,0 +1,15 @@
+# Entornos y cachés locales de Python/Jupyter
+.venv/
+.uv-cache/
+.python-runtime/
+.jupyter/
+.jupyter-config/
+.jupyter-runtime/
+.ipython/
+.matplotlib/
+__pycache__/
+*.py[cod]
+
+# Archivos temporales locales de EA3
+/EA3_comparacion_climatica/.verificacion/
+/EA3_comparacion_climatica/.ae1_ae2_antes.json
