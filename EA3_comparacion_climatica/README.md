@@ -30,7 +30,7 @@ Columnas: `fecha`, `ciudad`, `pais`, `estacion`, `tmin_c`, `precipitacion_mm`, `
 
 El notebook contiene la predicción inicial, la revisión de tipos y calidad, arrays NumPy, cortes, máscaras, broadcasting, estadísticas, tres gráficas comparativas y conclusiones con cifras. Las gráficas y las explicaciones quedan dentro del notebook.
 
-Para ejecutarlo, instala las dependencias con `pip install -r requirements.txt` desde esta carpeta y selecciona ese entorno como kernel. Con las dependencias instaladas funciona sin conexión usando los archivos incluidos. `construir_notebook.py` permite reconstruirlo y ejecutar todas sus celdas con un kernel real. No modifica `AE1/` ni `AE2/`.
+Para ejecutarlo, instala las dependencias con `pip install -r requirements.txt` desde esta carpeta y selecciona ese entorno como kernel. Con las dependencias instaladas funciona sin conexión usando los archivos incluidos. El notebook no modifica `AE1/` ni `AE2/`.
 
 Para repetir la descarga de IDEAM desde PowerShell:
 
